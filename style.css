@@ -1,0 +1,14 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background: linear-gradient(45deg, #007bff, #0056b3);
+    color: #fff;
+}
+
+.card:hover {
+    background-color: #f8f9fa;
+    transform: translateY(-5px);
+    transition: all 0.3s ease-in-out;
+}
